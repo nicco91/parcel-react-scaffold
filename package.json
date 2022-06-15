@@ -1,6 +1,6 @@
 {
-  "name": "soccer-studio",
-  "displayName": "Soccer Studio",
+  "name": "parcel-react-scaffold",
+  "displayName": "Parcel with React scaffold",
   "version": "0.0.1",
   "author": {
     "name": "Niccolò Taddei",
